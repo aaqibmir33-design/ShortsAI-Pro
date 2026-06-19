@@ -1,0 +1,6 @@
+{
+  "name": "AI YouTube Shorts Generator",
+  "description": "Convert YouTube links or uploaded videos into engaging 9:16 vertical Shorts. Automatically detect high-engagement clips with AI transcript analysis, customize word-by-word captions with highlights, apply face-tracking/zoom adjustments, and render high-quality clips instantly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
